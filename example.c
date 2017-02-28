@@ -14,7 +14,7 @@ int main ()
 		return 1 ;
 	}
 
-    heading_d = getCurrentHeading(compass); //get compass heading
+      heading_d = getCurrentHeading(compass); //get compass heading
 
 	return 0 ;
 }
